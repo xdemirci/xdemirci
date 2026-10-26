@@ -10,7 +10,7 @@ Bilgisayar mühendisliği mezunuyum. Gömülü ve otonom sistemler, simülasyon,
 
 | Proje | Özet |
 |---|---|
-| [Sürü İHA TEKNOFEST Görevleri](https://omerkutur.com/projects/suru_gorevi/) | <!-- görevlerin 1 cümlelik özeti --> |
+| [Sürü İHA TEKNOFEST Görevleri](https://omerkutur.com/projects/suru_gorevi/) | Yazılım + Donanım + Haberleşme + Simülasyon |
 | [Sürü İHA Döner Kanat Simülasyonu](https://omerkutur.com/projects/ardupilot/) | ArduPilot SITL + Gazebo ile çoklu araç simülasyonu |
 | [YOLOv8n ile Quadcopter Tespiti](https://omerkutur.com/projects/yolov8n_quad_tespit/) | Gazebo görüntüleriyle eğitilen tespit deneyi |
 | [Skywalker X8 QuadPlane ile ArUco Tespit](https://omerkutur.com/projects/aruco_tespit/) | <!-- tespit sonucu/doğruluk --> |
