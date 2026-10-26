@@ -1,6 +1,6 @@
-# Merhaba, ben Ömer 👋
+# Merhaba, ben Ömer.
 
-Bilgisayar mühendisliği mezunuyum. Gömülü ve otonom sistemler, simülasyon, insansız hava araçları ve sürü iha üzerine çalışıyorum: ArduPilot SITL, Gazebo, pymavlink, OpenCV, ROS2.
+Bilgisayar mühendisliği mezunuyum. Gömülü ve otonom sistemler, simülasyon, insansız hava araçları ve sürü iha üzerine çalışıyorum.
 
 **Araçlar:** ArduPilot SITL · Gazebo · pymavlink · OpenCV · YOLOv8n · ArUco · Python · C/C++ · STM32
 
