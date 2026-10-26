@@ -23,6 +23,6 @@ Bilgisayar mühendisliği mezunuyum. Gömülü ve otonom sistemler, simülasyon,
 - [mpu6050_driver](https://github.com/xdemirci/mpu6050_driver), [stm32_assembly](https://github.com/xdemirci/stm32_assembly), [low_level](https://github.com/xdemirci/low_level)
 
 ## Şu an
-- EBABİL takımı yazılımcısı olarak 2027 Teknofest çalışmalarında devam ediyorum.
+- EBABİL takımı yazılımcısı olarak 2027 Teknofest çalışmalarına devam ediyoruz.
 
 <!-- üzerinde çalıştığın 1-2 şey -->
